@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/llalule/ohtuvarasto/actions/workflows/main.yml/badge.svg
+![status]https://github.com/llalule/ohtuvarasto/actions/workflows/main.yml/badge.svg
