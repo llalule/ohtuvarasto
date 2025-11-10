@@ -53,6 +53,13 @@ def main():
     print(f"saatiin {saatiin}")
     print(f"Mehuvarasto: {mehua}")
 
+    kymppi = 10
+    if kymppi > 5:
+        if kymppi > 6:
+            if kymppi > 7:
+                print("testi")
+                print('toinen testi')
+
 
 if __name__ == "__main__":
     main()
